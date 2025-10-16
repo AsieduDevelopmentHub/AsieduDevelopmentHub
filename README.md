@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+<img src="https://github.com/AsieduDevelopmentHub/AsieduDevelopmentHub/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
      alt="Asiedu Banner"
      width="100%"
      height="230px"
@@ -22,7 +22,7 @@
 
 ## 🌟 Quick Access
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CephasTechOrg&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&theme=react-dark&bg_color=0D1117&hide_border=false&line=00FFFF&point=FF66C4&custom_title=Contribution+Graph)
 </div>
 
 ---
@@ -75,7 +75,7 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 - 📱 Responsive web dashboard  
 
 <p align="center">
-  <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/vitalgo_demo.gif?raw=true" width="500" alt="IoT Demo"/>
+  <img src="https://github.com/CephasTechOrg/AsieduDevelopmentHub/blob/main/images/vitalgo_demo.gif?raw=true" width="500" alt="IoT Demo"/>
 </p>
 
 </div>
@@ -115,11 +115,11 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 
 ## 📊 Stats & Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CephasTechOrg&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/CephasTechOrg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/AsieduDevelopmentHub)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/CephasTechOrg)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/AsieduDevelopmentHub)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CephasTechOrg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AsieduDevelopmentHubg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
