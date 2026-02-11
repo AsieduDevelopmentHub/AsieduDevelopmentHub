@@ -31,30 +31,28 @@ i<!-- 💫 MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
 
 ## 👨‍💻 About Me
 
-I’m **Asiedu Kwaku Mintah**, an **IoT and Electronics Developer from Ghana**.  
-I design and build **intelligent systems** using **Arduino, Node.js, and Firebase** that connect devices, data, and people.  
+I’m **Asiedu Kwaku Mintah**, an IoT and Embedded Systems Developer based in Ghana.  
+I build intelligent, connected systems that bridge hardware, software, and the cloud.
 
-My focus areas include:
-- Embedded systems and sensor integration  
-- Database design and real-time data sync  
-- Authentication systems and secure connectivity  
-- Web dashboards for device monitoring  
+My work focuses on:
+- Embedded systems & sensor integration  
+- Real-time data sync & database architecture  
+- Secure authentication & access control  
+- Web dashboards for IoT device monitoring  
 
-💬 “Innovation starts with connecting the smallest circuits to the biggest ideas.”
-
-</div>
+💬 I believe that great innovation starts at the intersection of small circuits and big ideas.
 
 ---
 
-<div align="center">
-
 ## 🧭 Vision
 
-I aim to become a **leading IoT engineer and full-stack developer** who:
-- Builds scalable IoT and automation systems  
-- Connects electronics with cloud databases  
-- Creates secure authentication environments  
-- Develops smart, connected products for real use  
+I’m on a mission to become a **leading IoT engineer and full-stack developer** – creating reliable, scalable products that solve real-world problems.  
+
+My focus is on:
+- Designing end-to-end IoT and automation systems  
+- Bridging electronics with cloud databases  
+- Building secure, user‑friendly authentication flows  
+- Developing smart products that are both functional and impactful  
 
 </div>
 
@@ -75,9 +73,8 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 - 📱 Responsive web dashboard  
 
 <p align="center">
-  <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/vitalgo_demo.gif?raw=true" width="500" alt="IoT Demo"/>
+  <img src="https://via.placeholder.com/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon" width="500" alt="IoT Demo"/>
 </p>
-
 </div>
 
 ---
