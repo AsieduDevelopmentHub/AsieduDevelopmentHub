@@ -1,4 +1,4 @@
-<!-- 💫 MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
+i<!-- 💫 MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
 <div align="center">
 
 <!-- Banner -->
@@ -136,6 +136,9 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/AsieduDevelopmentHub)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AsieduDevelopmentHub&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117)](https://git.io/streak-stats)
+
+![Profile
+Views Counter](https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&style=for-the-badge&color=00FFFF)
 
 </div>
 
