@@ -9,7 +9,7 @@
      style="object-fit:cover;border-radius:15px;" />
 
 <!-- Hero -->
-# 👋🏽 Hello World, I'm **Asiedu Kwaku Mintah**
+# 👋🏽 Hello World, I'm **Asiedu Minta Kwaku**
 ### 🔌 IoT Developer | ⚙️ Embedded Systems Engineer | 💻 Full-Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Smart+IoT+Systems;Automating+the+Future+with+Electronics;Securing+Data+with+Firebase+and+Auth)](https://git.io/typing-svg)
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Asiedu Kwaku Mintah**, an IoT and Embedded Systems Developer based in Ghana.  
+I’m **Asiedu Minta Kwaku**, an IoT and Embedded Systems Developer based in Ghana.  
 I build intelligent, connected systems that bridge hardware, software, and the cloud.
 
 My work focuses on:
@@ -179,6 +179,6 @@ My focus is on:
 <div align="center">
 
 ✨ _“Technology connects the world through logic, creativity, and precision.”_ ✨  
-**— Asiedu Kwaku Mintah**
+**— Asiedu Minta Kwaku**
 
 </div>
