@@ -2,7 +2,7 @@ i<!-- 💫 MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
 <div align="center">
 
 <!-- Banner -->
-<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+<img src="https://raw.githubusercontent.com/CephasTechOrg/CephasTechOrg/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
      alt="Asiedu Banner"
      width="100%"
      height="230px"
@@ -72,8 +72,8 @@ My focus is on:
 - 🔒 Secure authentication  
 - 📱 Responsive web dashboard  
 
-<<p align="center">
-  <img src="https://via.placeholder.com/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon" width="500" alt="IoT Demo Placeholder"/>
+<p align="center">
+  <img src="https://placehold.co/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon&font=montserrat" width="500" alt="IoT Demo Placeholder"/>
 </p>
 </div>
 
