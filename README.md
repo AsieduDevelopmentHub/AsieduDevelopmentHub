@@ -134,8 +134,7 @@ My focus is on:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AsieduDevelopmentHub&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117)](https://git.io/streak-stats)
 
 
-![Profile
-Views Counter](https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&style=for-the-badge&labelColor=0D1117&color=00FFFF)
+![Profile Views](https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&color=0D1117&style=for-the-badge)
 
 </div>
 
