@@ -72,14 +72,8 @@ My focus is on:
 - 🔒 Secure authentication  
 - 📱 Responsive web dashboard  
 
-<p align="center">
-  <svg width="500" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="200" fill="#0D1117"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00FFFF" font-size="24" font-family="monospace">
-      IoT Dashboard Demo – Coming Soon
-    </text>
-  </svg>
-</p>
+![IoT Demo](https://img.shields.io/badge/IoT_Demo-COMING_SOON-00FFFF?style=for-the-badge&labelColor=0D1117&color=00FFFF)
+
 </div>
 
 ---
