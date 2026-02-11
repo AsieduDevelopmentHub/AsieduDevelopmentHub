@@ -1,4 +1,4 @@
-i<!-- 💫 MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
+<!-- 💫 MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
 <div align="center">
 
 <!-- Banner -->
@@ -73,7 +73,9 @@ My focus is on:
 - 📱 Responsive web dashboard  
 
 <p align="center">
+
   <img src="https://placehold.co/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon&font=montserrat" width="500" alt="IoT Demo Placeholder"/>
+
 </p>
 </div>
 
