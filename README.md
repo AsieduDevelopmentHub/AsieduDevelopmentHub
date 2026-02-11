@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://github.com/AsieduDevelopmentHub/AsieduDevelopmentHub/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
+<img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/WhatsApp%20Image%202025-07-06%20at%2021.55.37_d7a5225f.jpg?raw=true"
      alt="Asiedu Banner"
      width="100%"
      height="230px"
@@ -75,7 +75,7 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 - 📱 Responsive web dashboard  
 
 <p align="center">
-  <img src="https://github.com/CephasTechOrg/AsieduDevelopmentHub/blob/main/images/vitalgo_demo.gif?raw=true" width="500" alt="IoT Demo"/>
+  <img src="https://github.com/CephasTechOrg/CephasTechOrg/blob/main/images/vitalgo_demo.gif?raw=true" width="500" alt="IoT Demo"/>
 </p>
 
 </div>
@@ -117,7 +117,7 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=FF66C4&text_color=FFFFFF)](https://github.com/AsieduDevelopmentHub)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CephasTechOrg&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/AsieduDevelopmentHub)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/AsieduDevelopmentHub)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AsieduDevelopmentHubg&theme=tokyonight&ring=FF66C4&fire=FF66C4&currStreakLabel=00FFFF&background=0D1117)](https://git.io/streak-stats)
 
@@ -130,7 +130,7 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 ## 🏆 Highlights
 
 - ⚙️ Built multiple **IoT prototypes** using Arduino and Firebase  
-- 💾 Designed **MySQL and Firebase** database architectures  
+- 💾 Designed **SQL and Firebase** database architectures  
 - 🔐 Developed **authentication systems** for real-time device access  
 - 🌐 Created **responsive control dashboards** with Node.js and HTML  
 
@@ -153,7 +153,7 @@ I aim to become a **leading IoT engineer and full-stack developer** who:
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CephasTechOrg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsieduDevelopmentHub)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asiedudev.hub@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233555257482)
 
