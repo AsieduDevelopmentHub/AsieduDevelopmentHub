@@ -73,9 +73,12 @@ My focus is on:
 - 📱 Responsive web dashboard  
 
 <p align="center">
-
-  <img src="https://placehold.co/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon&font=montserrat" width="500" alt="IoT Demo Placeholder"/>
-
+  <svg width="500" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="200" fill="#0D1117"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00FFFF" font-size="24" font-family="monospace">
+      IoT Dashboard Demo – Coming Soon
+    </text>
+  </svg>
 </p>
 </div>
 
