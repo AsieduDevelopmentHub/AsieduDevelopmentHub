@@ -72,8 +72,8 @@ My focus is on:
 - 🔒 Secure authentication  
 - 📱 Responsive web dashboard  
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon" width="500" alt="IoT Demo"/>
+<<p align="center">
+  <img src="https://via.placeholder.com/800x400/0D1117/00FFFF?text=IoT+Dashboard+Demo+–+Coming+Soon" width="500" alt="IoT Demo Placeholder"/>
 </p>
 </div>
 
