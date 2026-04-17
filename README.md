@@ -31,14 +31,15 @@
 
 ## 👨‍💻 About Me
 
-I’m **Asiedu Minta Kwaku**, an IoT and Embedded Systems Developer based in Ghana.  
+I’m **Asiedu Minta Kwaku**, a Software and Embedded Systems Developer based in Ghana.  
 I build intelligent, connected systems that bridge hardware, software, and the cloud.
 
 My work focuses on:
 - Embedded systems & sensor integration  
 - Real-time data sync & database architecture  
 - Secure authentication & access control  
-- Web dashboards for IoT device monitoring  
+- Web dashboards for IoT device monitoring
+- RTOS mobiles applications to connect with hardware
 
 💬 I believe that great innovation starts at the intersection of small circuits and big ideas.
 
@@ -46,7 +47,7 @@ My work focuses on:
 
 ## 🧭 Vision
 
-I’m on a mission to become a **leading IoT engineer and full-stack developer** – creating reliable, scalable products that solve real-world problems.  
+I’m on a mission to become a **leading embedded systems engineer and full-stack developer** – creating reliable, scalable products that solve real-world problems.  
 
 My focus is on:
 - Designing end-to-end IoT and automation systems  
@@ -114,10 +115,11 @@ My focus is on:
 ### ⚡ Focus Areas
 - IoT Systems & Sensor Networks  
 - Embedded Systems & Hardware Prototyping  
-- Firebase Authentication & Real-time Database  
+- Secure Authentication & Real-time Database  
 - Web Dashboard Development & Data Visualization  
-- Full Stack Web Development  
-- DevOps & Containerization (Docker, WSL/Ubuntu)    
+- Full Stack Web Development
+- DevOps & Containerization (Docker, WSL/Ubuntu)
+- Mobile app development for both android and ios
 
 </div>
 
@@ -144,8 +146,8 @@ My focus is on:
 
 ## 🏆 Highlights
 
-- ⚙️ Built multiple **IoT prototypes** using Arduino and Firebase  
-- 💾 Designed **SQL and Firebase** database architectures  
+- ⚙️ Built multiple **IoT prototypes** using Arduino, ESP and cloud databases(Firebase, Supabase)  
+- 💾 Designed **SQL and NoSQL** database architectures  
 - 🔐 Developed **authentication systems** for real-time device access  
 - 🌐 Created **responsive control dashboards** with Node.js and HTML  
 
