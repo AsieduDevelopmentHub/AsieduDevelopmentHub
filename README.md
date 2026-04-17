@@ -14,6 +14,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Smart+IoT+Systems;Automating+the+Future+with+Electronics;Securing+Data+with+Firebase+and+Auth)](https://git.io/typing-svg)
 
+ <!-- Metrics -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&color=00FFFF&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/AsieduDevelopmentHub?style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/AsieduDevelopmentHub?style=social" alt="Stars"/>
+  </p>
+  
 </div>
 
 ---
@@ -61,20 +68,52 @@ My focus is on:
 
 <div align="center">
 
-## 🚀 Featured Project — **Smart IoT Control Hub**
+<!-- Featured Project -->
+  <h2>🚀 Featured Project</h2>
 
-> “Connecting devices, simplifying control, and automating life.”
+  <h3>
+    <a href="https://github.com/Vital-Go/Vital-Go-Frontend" style="text-decoration: none; color: #00FFFF;">
+      Vital-Go - AI-Powered Healthcare Platform
+    </a>
+  </h3>
+  
+  <p>
+    <b>Vital-Go</b> is a comprehensive, <b>scalable AI-powered healthcare platform</b> designed to revolutionize 
+    care delivery by making it smarter, faster, and more connected. The platform addresses critical challenges 
+    in modern healthcare through innovative technology integration.
+  </p>
 
-**Smart IoT Control Hub** combines **Arduino**, **Firebase**, and **Node.js** to manage IoT devices remotely with real-time updates.
+  <p><b>Key Features:</b></p>
+  <ul style="text-align: left; display: inline-block;">
+    <li>📊 <b>Real-time Wearable Integration:</b> Seamless streaming of patient vitals from wearable devices</li>
+    <li>🤖 <b>AI-Driven Patient Matching:</b> Intelligent patient-doctor assignment algorithm for optimal care</li>
+    <li>📹 <b>Secure Video Consultations:</b> HIPAA-compliant telemedicine capabilities</li>
+    <li>⚡ <b>Reduced Wait Times:</b> Optimized workflow for improved patient experience</li>
+    <li>🎯 <b>Clinical Decision Support:</b> AI-powered insights for enhanced diagnostic accuracy</li>
+  </ul>
 
-**Core Features:**
-- 🔌 Real-time device status control  
-- ☁️ Firebase-based cloud sync  
-- 🔒 Secure authentication  
-- 📱 Responsive web dashboard  
+  <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-![IoT Demo](https://img.shields.io/badge/IoT_Demo-COMING_SOON-00FFFF?style=for-the-badge&labelColor=0D1117&color=00FFFF)
+  <p><b>Technology Stack:</b></p>
+  <p>
+    <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Next.js</code> · 
+    <code>React</code> · <code>TailwindCSS</code> · <code>Docker</code> · <code>AWS</code>
+  </p>
 
+  <p>
+    <b>My Role:</b> Co-Founder & CTO<br/>
+    <em>Responsibilities: System architecture design, full-stack development, Hardware Ddevelopment, and DevOps implementation</em>
+  </p>
+
+  <hr/>
+ </div>
+ 
 </div>
 
 ---
@@ -83,36 +122,47 @@ My focus is on:
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3>Languages</h3>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=python,cpp,c,css,js,ts,html,css,tailwind"
+      alt="Languages"
+    />
+  </p>
 
-### 🛠️ Frameworks & Tools
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=supabase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<h3>Frameworks</h3>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,react,vue,django"
+      alt="Frameworks and tools"
+    />
+  </p>
 
-### 🤖 Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP32-C3](https://img.shields.io/badge/ESP32--C3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+<h3>Tools</h3>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=git,github,redis,vscode,arduino,postgres,mysql,mongodb,docker,firebase,supabase,postman"
+      alt="Frameworks and tools"
+    />
+  </p>
 
-### 🐧 OS & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<h3>OS & DevOps</h3>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=linux,ubuntu,aws,clion"
+      alt="OS and DevOps"
+    />
+  </p>
+
+<h3 style="display: flex">Hardware & IoT</h3>
+<p>
+ <img
+      src="https://skillicons.dev/icons?i=arduino,raspberrypi"
+      alt="hardware and iot"
+    />
+
+    
 
 ### ⚡ Focus Areas
 - IoT Systems & Sensor Networks  
