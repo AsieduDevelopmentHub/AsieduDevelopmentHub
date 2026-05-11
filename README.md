@@ -1,4 +1,4 @@
-<!-- MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTAH -->
+<!-- MASTER README — CENTER-ALIGNED • ASIEDU KWAKU MINTA -->
 <div align="center">
 
 <!-- Banner -->
@@ -8,13 +8,11 @@
      height="230px"
      style="object-fit:cover;border-radius:15px;" />
 
-<!-- Hero -->
 # Hello World, I'm **Asiedu Minta Kwaku**
-### IoT Developer | Embedded Systems Engineer | Full-Stack Developer
+### IoT Developer • Embedded Systems Engineer • Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Smart+IoT+Systems;Automating+the+Future+with+Electronics;Securing+Data+with+Firebase+and+Auth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Building+Smart+IoT+Systems;Automating+the+Future+with+Electronics;Securing+Data+with+Firebase+and+Authentication)](https://git.io/typing-svg)
 
-<!-- Metrics -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&color=00FFFF&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/AsieduDevelopmentHub?style=social" alt="Followers"/>
@@ -39,31 +37,31 @@
 
 ## About Me
 
-I’m **Asiedu Minta Kwaku**, a Software and Embedded Systems Developer based in Ghana.  
-I build intelligent, connected systems that bridge hardware, software, and the cloud.
+I’m **Asiedu Minta Kwaku**, a software and embedded systems developer based in Ghana.  
+I build intelligent and connected systems that bridge hardware, software, and cloud technologies.
 
 My work focuses on:
 
 - Embedded systems and sensor integration  
 - Real-time data synchronization and database architecture  
-- Secure authentication and access control  
+- Secure authentication and access control systems  
 - Web dashboards for IoT device monitoring  
-- RTOS mobile applications that connect with hardware  
+- Mobile and web applications integrated with hardware systems  
 
-I believe that great innovation starts at the intersection of small circuits and big ideas.
+I believe great innovation begins at the intersection of small circuits and big ideas.
 
 ---
 
 ## Vision
 
-I’m on a mission to become a leading embedded systems engineer and full-stack developer, creating reliable and scalable products that solve real-world problems.
+My mission is to become a leading embedded systems engineer and full-stack developer by building reliable, scalable, and impactful technology solutions for real-world problems.
 
-My focus is on:
+I am focused on:
 
 - Designing end-to-end IoT and automation systems  
-- Bridging electronics with cloud databases  
-- Building secure and user-friendly authentication flows  
-- Developing smart products that are both functional and impactful  
+- Bridging electronics with cloud infrastructure  
+- Building secure and intuitive authentication systems  
+- Developing smart products that are both practical and innovative  
 
 </div>
 
@@ -71,49 +69,46 @@ My focus is on:
 
 <div align="center">
 
-<h2>Featured Project</h2>
+## Featured Project
 
-<h3>
-  <a href="https://github.com/Vital-Go/Vital-Go-Frontend" style="text-decoration: none; color: #00FFFF;">
-    Vital-Go - AI-Powered Healthcare Platform
-  </a>
-</h3>
+### <a href="https://github.com/Vital-Go/Vital-Go-Frontend" style="text-decoration: none; color: #00FFFF;">
+Vital-Go — AI-Powered Healthcare Platform
+</a>
 
 <p>
-  <b>Vital-Go</b> is a comprehensive and scalable AI-powered healthcare platform designed to improve care delivery by making it smarter, faster, and more connected. The platform addresses critical challenges in modern healthcare through innovative technology integration.
+<b>Vital-Go</b> is a scalable AI-powered healthcare platform designed to improve healthcare delivery by making it smarter, faster, and more connected. The platform addresses critical challenges in modern healthcare through advanced technology integration.
 </p>
 
 <p><b>Key Features:</b></p>
 
 <ul style="text-align: left; display: inline-block;">
-  <li><b>Real-time Wearable Integration:</b> Seamless streaming of patient vitals from wearable devices</li>
-  <li><b>AI-Driven Patient Matching:</b> Intelligent patient-doctor assignment for optimal care</li>
+  <li><b>Real-Time Wearable Integration:</b> Seamless streaming of patient vitals from wearable devices</li>
+  <li><b>AI-Driven Patient Matching:</b> Intelligent patient-to-doctor assignment for optimized care</li>
   <li><b>Secure Video Consultations:</b> HIPAA-compliant telemedicine capabilities</li>
-  <li><b>Reduced Wait Times:</b> Optimized workflow for improved patient experience</li>
-  <li><b>Clinical Decision Support:</b> AI-powered insights for enhanced diagnostic accuracy</li>
+  <li><b>Reduced Wait Times:</b> Improved workflows for better patient experiences</li>
+  <li><b>Clinical Decision Support:</b> AI-powered insights to assist healthcare professionals</li>
 </ul>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
 <p><b>Technology Stack:</b></p>
 
 <p>
-  <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Next.js</code> ·
-  <code>React</code> · <code>TailwindCSS</code> · <code>Docker</code> · <code>AWS</code>
+  <code>FastAPI</code> • <code>PostgreSQL</code> • <code>Redis</code> •
+  <code>Next.js</code> • <code>React</code> • <code>TailwindCSS</code> •
+  <code>Docker</code> • <code>AWS</code>
 </p>
 
 <p>
-  <b>My Role:</b> Co-Founder & CTO<br/>
-  <em>Responsibilities: System architecture design, full-stack development, hardware development, and DevOps implementation</em>
+  <b>Role:</b> Co-Founder & CTO<br/>
+  <em>Responsible for system architecture, full-stack development, hardware integration, and DevOps implementation.</em>
 </p>
-
-<hr/>
 
 </div>
 
@@ -123,31 +118,31 @@ My focus is on:
 
 ## Tech Stack
 
-<h3>Languages</h3>
+### Languages
 <p>
   <img
-    src="https://skillicons.dev/icons?i=python,cpp,c,css,js,ts,html,css,tailwind"
+    src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,tailwind"
     alt="Languages"
   />
 </p>
 
-<h3>Frameworks</h3>
+### Frameworks
 <p>
   <img
     src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,react,vue,django"
-    alt="Frameworks and tools"
+    alt="Frameworks"
   />
 </p>
 
-<h3>Tools</h3>
+### Tools & Databases
 <p>
   <img
     src="https://skillicons.dev/icons?i=git,github,redis,vscode,arduino,postgres,mysql,mongodb,docker,firebase,supabase,postman"
-    alt="Frameworks and tools"
+    alt="Tools and Databases"
   />
 </p>
 
-<h3>OS & DevOps</h3>
+### OS & DevOps
 <p>
   <img
     src="https://skillicons.dev/icons?i=linux,ubuntu,aws,clion"
@@ -155,7 +150,7 @@ My focus is on:
   />
 </p>
 
-<h3>Hardware & IoT</h3>
+### Hardware & IoT
 <p>
   <img
     src="https://skillicons.dev/icons?i=arduino,raspberrypi"
@@ -163,14 +158,14 @@ My focus is on:
   />
 </p>
 
-### Focus Areas
+## Focus Areas
 
-- IoT Systems and Sensor Networks  
-- Embedded Systems and Hardware Prototyping  
-- Secure Authentication and Real-time Databases  
-- Web Dashboard Development and Data Visualization  
-- Full-Stack Web Development  
-- DevOps and Containerization (Docker, WSL/Ubuntu)  
+- IoT systems and sensor networks  
+- Embedded systems and hardware prototyping  
+- Secure authentication and real-time databases  
+- Web dashboard development and data visualization  
+- Full-stack web development  
+- DevOps and containerization using Docker and WSL/Ubuntu  
 - Mobile application development for Android and iOS  
 
 </div>
@@ -195,10 +190,10 @@ My focus is on:
 
 ## Highlights
 
-- Built multiple IoT prototypes using Arduino, ESP, and cloud databases (Firebase, Supabase)  
-- Designed SQL and NoSQL database architectures  
-- Developed authentication systems for real-time device access  
-- Created responsive control dashboards with Node.js and HTML  
+- Built multiple IoT prototypes using Arduino, ESP boards, and cloud platforms such as Firebase and Supabase  
+- Designed scalable SQL and NoSQL database architectures  
+- Developed secure authentication systems for real-time device communication  
+- Created responsive dashboards using Node.js, HTML, CSS, and JavaScript  
 
 </div>
 
@@ -208,7 +203,7 @@ My focus is on:
 
 ## Quote
 
-> “Engineering is about making intelligence visible in every circuit and line of code.”
+> “Engineering is about making intelligence visible through every circuit and line of code.”
 
 </div>
 
@@ -233,6 +228,6 @@ My focus is on:
 <div align="center">
 
 “Technology connects the world through logic, creativity, and precision.”  
-**— Asiedu Minta Kwaku**
+<b>— Asiedu Minta Kwaku</b>
 
 </div>
