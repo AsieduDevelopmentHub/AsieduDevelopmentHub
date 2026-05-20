@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&label=Profile+Views&color=00ffff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&label=Profile+Views&color=00ffff&style=for-the-badge&labelColor=000000" />
 
 <img src="https://img.shields.io/github/followers/AsieduDevelopmentHub?style=for-the-badge&color=0D1117&labelColor=0D1117" />
 
