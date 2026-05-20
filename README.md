@@ -212,14 +212,14 @@ Responsible for system architecture, backend engineering, frontend development, 
 
 # GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFFFFF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&cache_seconds=1800"/>
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=AsieduDevelopmentHub&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF"/>
 
 </div>
 
