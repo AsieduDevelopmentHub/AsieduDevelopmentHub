@@ -111,7 +111,7 @@ into unified and reliable ecosystems.
 
 ## Vital-Go — AI Powered Healthcare Platform
 
-<a href="https://github.com/Vital-Go/Vital-Go-Frontend">
+<a href=https://github.com/Vital-Go-Technologies">
   <img src="https://img.shields.io/badge/View_Project-00C7FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
