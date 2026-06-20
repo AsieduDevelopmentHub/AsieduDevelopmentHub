@@ -242,6 +242,8 @@ DevOps implementation
 
 ---
 
+---
+
 <div align="center">
 
 # Engineering Metrics
@@ -249,16 +251,16 @@ DevOps implementation
 <a href="https://github.com/AsieduDevelopmentHub">
 
 <img
-height="190px"
-src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFD700&text_color=FFFFFF&rank_icon=github"/>
+height="185"
+src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github"/>
 
 </a>
 
 <a href="https://github.com/AsieduDevelopmentHub">
 
 <img
-height="190px"
-src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
+height="185"
+src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=8B949E"/>
 
 </a>
 
@@ -269,7 +271,7 @@ src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=dark&hide_
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&bg_color=0D1117&color=00FFFF&line=FFD700&point=FFFFFF&hide_border=true&custom_title=Contribution%20Activity"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&bg_color=transparent&color=C9D1D9&line=60A5FA&point=7DD3FC&hide_border=true&custom_title=Engineering%20Activity"/>
 
 </a>
 
@@ -279,8 +281,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelo
 <a href="https://github.com/AsieduDevelopmentHub">
 
 <img
-height="190px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=C9D1D9"/>
 
 </a>
 
