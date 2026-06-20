@@ -177,3 +177,129 @@ DevOps implementation
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!-- PART 2 -->
+<!-- TECH STACK • FOCUS AREAS • ENGINEERING METRICS -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,tailwind"/>
+
+<br/>
+<br/>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,vue"/>
+
+<br/>
+<br/>
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,mongodb,redis"/>
+
+<br/>
+<br/>
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,aws,vscode,postman"/>
+
+<br/>
+<br/>
+
+### Hardware & IoT
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Focus Areas
+
+</div>
+
+- IoT systems and smart automation  
+- Embedded systems engineering  
+- Real-time cloud-connected architectures  
+- Authentication and access control systems  
+- Web dashboards and monitoring systems  
+- Full-stack software engineering  
+- Database architecture and optimization  
+- DevOps and containerized deployments  
+- Mobile application development  
+- Intelligent monitoring and control systems  
+
+---
+
+<div align="center">
+
+# Engineering Metrics
+
+<a href="https://github.com/AsieduDevelopmentHub">
+
+<img
+height="190px"
+src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FFD700&text_color=FFFFFF&rank_icon=github"/>
+
+</a>
+
+<a href="https://github.com/AsieduDevelopmentHub">
+
+<img
+height="190px"
+src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/AsieduDevelopmentHub">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&bg_color=0D1117&color=00FFFF&line=FFD700&point=FFFFFF&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/AsieduDevelopmentHub">
+
+<img
+height="190px"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# Selected Contributions
+
+</div>
+
+- Developed IoT systems using ESP32, Arduino, Firebase, and Supabase  
+- Built scalable cloud-connected monitoring dashboards  
+- Designed secure authentication systems for connected devices  
+- Engineered responsive full-stack applications and APIs  
+- Integrated hardware systems with real-time web infrastructures  
+- Built monitoring and automation workflows across hardware and cloud  
+- Worked across embedded systems, cloud engineering, and software development  
+
+---
