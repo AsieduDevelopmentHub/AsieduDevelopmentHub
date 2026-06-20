@@ -341,39 +341,25 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 
 # Connect with Me
 
+<p>
+
 <a href="https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a">
-
-<img
-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 
 <a href="https://github.com/AsieduDevelopmentHub">
-
-<img
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
 
 <a href="mailto:asiedudev.hub@gmail.com">
-
-<img
-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-&nbsp;
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
 
 <a href="https://wa.me/233555257482">
-
-<img
-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
