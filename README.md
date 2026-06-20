@@ -303,3 +303,130 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelo
 - Worked across embedded systems, cloud engineering, and software development  
 
 ---
+
+<!-- ===================================================== -->
+<!-- PART 3 -->
+<!-- CONTRIBUTION SNAKE • CONTACT • FOOTER -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# Contribution Snake
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
+<img
+alt="github contribution snake animation"
+src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+# Connect with Me
+
+<a href="https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a">
+
+<img
+src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/AsieduDevelopmentHub">
+
+<img
+src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="mailto:asiedudev.hub@gmail.com">
+
+<img
+src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://wa.me/233555257482">
+
+<img
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# Currently Exploring
+
+Embedded Systems  
+Cloud Infrastructure  
+IoT Architecture  
+Hardware–Software Integration  
+Secure System Design  
+Real-Time Monitoring Systems  
+Automation Engineering  
+
+</div>
+
+---
+
+<div align="center">
+
+# Philosophy
+
+> Engineering is the discipline of turning ideas into reliable systems that create measurable impact.
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+<sub>
+
+Designed and maintained by  
+<strong>Asiedu Minta Kwaku</strong>
+
+</sub>
+
+<br/><br/>
+
+<sub>
+
+Software Developer • Embedded Systems Engineer • IoT Developer
+
+</sub>
+
+<br/><br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:00FFFF&section=footer"/>
+
+</div>
+
+<!-- ===================================================== -->
+<!-- END README -->
+<!-- ===================================================== -->
