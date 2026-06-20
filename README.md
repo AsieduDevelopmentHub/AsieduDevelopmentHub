@@ -22,15 +22,28 @@ width="100%"/>
 
 <br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&label=Profile+Views&style=for-the-badge&color=0D1117"/>
+<br/>
+
+<p align="center">
 
 <img
-src="https://img.shields.io/github/followers/AsieduDevelopmentHub?style=for-the-badge&labelColor=0D1117&color=0D1117"/>
+src="https://komarev.com/ghpvc/?username=AsieduDevelopmentHub&label=PROFILE+VIEWS&style=for-the-badge&color=1F2937"
+alt="Profile Views"
+/>
 
 <img
-src="https://img.shields.io/github/stars/AsieduDevelopmentHub?style=for-the-badge&labelColor=0D1117&color=0D1117"/>
+src="https://img.shields.io/github/followers/AsieduDevelopmentHub?style=for-the-badge&label=FOLLOWERS&color=1F2937&labelColor=111827"
+alt="Followers"
+/>
 
+<img
+src="https://img.shields.io/github/stars/AsieduDevelopmentHub?style=for-the-badge&label=STARS&color=1F2937&labelColor=111827"
+alt="Stars"
+/>
+
+</p>
+
+<br/>
 </div>
 
 ---
