@@ -48,6 +48,7 @@ alt="Stars"
 
 ---
 
+
 <div align="center">
 
 # Navigation
@@ -71,6 +72,7 @@ alt="Stars"
 </div>
 
 ---
+
 
 <div align="center">
 
@@ -98,6 +100,7 @@ I enjoy transforming complex engineering challenges into practical and scalable 
 
 ---
 
+
 <div align="center">
 
 # Mission
@@ -121,6 +124,7 @@ into unified and reliable ecosystems.
 </div>
 
 ---
+
 
 <!-- ===================================================== -->
 <!-- PART 2 -->
@@ -167,6 +171,7 @@ into unified and reliable ecosystems.
 
 ---
 
+
 <div align="center">
 
 # Focus Areas
@@ -186,7 +191,6 @@ into unified and reliable ecosystems.
 
 ---
 
----
 
 <div align="center">
 
@@ -234,6 +238,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelo
 
 ---
 
+
 <div align="center">
 
 # Selected Contributions
@@ -250,12 +255,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelo
 
 ---
 
+
 <!-- ===================================================== -->
 <!-- PART 3 -->
 <!-- CONTRIBUTION SNAKE • CONTACT • FOOTER -->
 <!-- ===================================================== -->
 
----
 
 <div align="center">
 
@@ -280,6 +285,7 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 </div>
 
 ---
+
 
 <div align="center">
 
@@ -309,6 +315,7 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 
 ---
 
+
 <div align="center">
 
 # Currently Exploring
@@ -325,6 +332,7 @@ Automation Engineering
 
 ---
 
+
 <div align="center">
 
 # Philosophy
@@ -334,6 +342,7 @@ Automation Engineering
 </div>
 
 ---
+
 
 <div align="center">
 
