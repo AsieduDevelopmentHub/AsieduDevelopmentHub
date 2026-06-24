@@ -69,7 +69,6 @@ alt="Stars"
 
 ---
 
-
 <div align="center">
 
 # About Me
@@ -95,7 +94,6 @@ I enjoy transforming complex engineering challenges into practical and scalable 
 </div>
 
 ---
-
 
 <div align="center">
 
