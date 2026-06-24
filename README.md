@@ -194,7 +194,7 @@ into unified and reliable ecosystems.
 
 <img
 height="185"
-src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=60A5FA&text_color=C9D1D9"/>
 
 </a>
 
