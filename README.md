@@ -207,7 +207,6 @@ src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=transparen
 </a>
 
 <br/>
-<br/>
 
 <a href="https://github.com/AsieduDevelopmentHub">
 
@@ -217,7 +216,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelo
 
 </a>
 
-<br/>
 <br/>
 
 <a href="https://github.com/AsieduDevelopmentHub">
