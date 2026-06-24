@@ -212,7 +212,7 @@ src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=transparen
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&bg_color=transparent&color=C9D1D9&line=60A5FA&point=7DD3FC&hide_border=true&custom_title=Engineering%20Activity"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&bg_color=transparent&color=C9D1D9&line=60A5FA&point=7DD3FC&hide_border=true"/>
 
 </a>
 
