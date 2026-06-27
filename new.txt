@@ -1,1 +1,3 @@
-just a text
+name: Asiedu Minta Kwaku
+email: asiedudev.hub@gmail.com 
+website: asiedudevhub.auralenx.com
