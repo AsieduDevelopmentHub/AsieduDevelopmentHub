@@ -2,4 +2,5 @@ name: Asiedu Minta Kwaku
 email: asiedudev.hub@gmail.com 
 website: asiedudevhub.auralenx.com
 contact: +233555257482
+dob: 27th April
 software ● embedded systems ● iot developer
