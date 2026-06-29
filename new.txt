@@ -1,6 +1,22 @@
-Name: Asiedu Minta Kwaku
+Asiedu Minta Kwaku
+
+Software Developer • Embedded Systems Engineer • IoT Developer
+
+I am a Ghana-based software developer and embedded systems engineer passionate about designing intelligent systems that seamlessly integrate hardware, software, and cloud technologies. My work focuses on developing scalable IoT solutions, real-time monitoring platforms, automation systems, and modern web and mobile applications that solve real-world problems.
+
 Email: asiedudev.hub@gmail.com
 Website: https://asiedudevhub.auralenx.com
-Contact: +233 55 525 7482
+Phone: +233 55 525 7482
 Date of Birth: 27 April
-Profession: Software Developer • Embedded Systems Engineer • IoT Developer
+
+Core Expertise
+
+- Software Engineering
+- Embedded Systems Development
+- Internet of Things (IoT)
+- Full-Stack Web Development
+- Mobile Application Development
+- Cloud Integration & Databases
+- Automation & Smart Systems
+
+"Building intelligent solutions where software, electronics, and innovation converge."
