@@ -131,7 +131,7 @@ into unified and reliable ecosystems.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,c#,js,ts,html,css,tailwind"/>
 
 <br/>
 <br/>
