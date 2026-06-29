@@ -138,21 +138,21 @@ into unified and reliable ecosystems.
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,vue"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,dotnet,django,vue"/>
 
 <br/>
 <br/>
 
 ### Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,mongodb,redis,sqlite"/>
 
 <br/>
 <br/>
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,aws,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,aws,vscode,postman,nginx"/>
 
 <br/>
 <br/>
