@@ -1,7 +1,6 @@
 <!-- ===================================================== -->
 <!-- MASTER README — ASIEDU MINTA KWAKU -->
 <!-- UPDATED UI VERSION -->
-<!-- PART 1 -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -121,7 +120,6 @@ into unified and reliable ecosystems.
 
 
 <!-- ===================================================== -->
-<!-- PART 2 -->
 <!-- TECH STACK • FOCUS AREAS • ENGINEERING METRICS -->
 <!-- ===================================================== -->
 
@@ -245,7 +243,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelo
 
 
 <!-- ===================================================== -->
-<!-- PART 3 -->
 <!-- CONTRIBUTION SNAKE • CONTACT • FOOTER -->
 <!-- ===================================================== -->
 
