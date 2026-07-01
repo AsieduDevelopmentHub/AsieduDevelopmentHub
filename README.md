@@ -335,8 +335,7 @@ Automation Engineering
 
 <sub>
 
-Designed and maintained by  
-<strong>Asiedu Minta Kwaku</strong>
+Designed and maintained by <strong>Asiedu Minta Kwaku</strong>
 
 </sub>
 
