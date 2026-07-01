@@ -339,7 +339,7 @@ Designed and maintained by <strong>Asiedu Minta Kwaku</strong>
 
 </sub>
 
-<br/><br/>
+<br/>
 
 <sub>
 
@@ -347,10 +347,10 @@ Software Developer • Embedded Systems Engineer • IoT Developer
 
 </sub>
 
-<br/><br/>
+<br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:00FFFF&section=footer"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:00FFFF&section=footer"/>
 
 </div>
 
