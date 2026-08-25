@@ -1,44 +1,118 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Profile Statistics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Run every day at 03:00 UTC
+    - cron: "0 3 * * *"
+
+  # Allow manual updates from GitHub Actions
   workflow_dispatch:
+
+  # Automatically update when this workflow changes
+  push:
+    paths:
+      - ".github/workflows/github-stats.yml"
 
 permissions:
   contents: write
 
 jobs:
-  generate-stats:
+  generate-profile-stats:
+    name: Generate Profile Statistics
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout profile repository
+
+      # --------------------------------------------------
+      # Checkout profile repository
+      # --------------------------------------------------
+
+      - name: Checkout repository
         uses: actions/checkout@v6
+
+      # --------------------------------------------------
+      # Prepare profile directory
+      # --------------------------------------------------
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      # --------------------------------------------------
+      # GitHub Statistics
+      # --------------------------------------------------
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github
+
+          options: >-
+            username=${{ github.repository_owner }}
+            &show_icons=true
+            &include_all_commits=true
+            &count_private=true
+            &theme=transparent
+            &hide_border=true
+            &title_color=7DD3FC
+            &icon_color=60A5FA
+            &text_color=C9D1D9
+            &rank_icon=github
+
           path: profile/stats.svg
+
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------------------------------
+      # Top Languages
+      # --------------------------------------------------
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=C9D1D9
+
+          options: >-
+            username=${{ github.repository_owner }}
+            &layout=compact
+            &langs_count=8
+            &theme=transparent
+            &hide_border=true
+            &title_color=7DD3FC
+            &text_color=C9D1D9
+
           path: profile/top-langs.svg
+
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
+      # --------------------------------------------------
+      # Contribution Streak
+      # --------------------------------------------------
+
+      - name: Generate Contribution Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          username: ${{ github.repository_owner }}
-          options: theme=react-dark&hide_border=true&custom_title=Engineering%20Activity&days=365&radius=6&height=300
-          output_path: profile/activity-graph.svg
+          options: >-
+            user=${{ github.repository_owner }}
+            &theme=transparent
+            &hide_border=true
+            &ring=60A5FA
+            &fire=60A5FA
+            &currStreakNum=7DD3FC
+            &sideNums=C9D1D9
+            &currStreakLabel=7DD3FC
+            &sideLabels=C9D1D9
+            &dates=8B949E
+            &disable_animations=true
+            &card_width=495
+            &card_height=195
+
+          path: profile/streak.svg
+
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------------------------------
+      # Commit generated SVG files
+      # --------------------------------------------------
 
       - name: Commit generated SVG files
         run: |
@@ -47,6 +121,8 @@ jobs:
 
           git add profile/*.svg
 
-          git commit -m "Update GitHub profile statistics" || exit 0
+          git diff --cached --quiet && echo "No statistics changes." && exit 0
+
+          git commit -m "Update GitHub profile statistics"
 
           git push
