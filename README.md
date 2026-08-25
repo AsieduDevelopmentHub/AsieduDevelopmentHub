@@ -183,7 +183,6 @@ into unified and reliable ecosystems.
 
 ---
 
-
 <div align="center">
 
 # Engineering Metrics
@@ -192,7 +191,8 @@ into unified and reliable ecosystems.
 
 <img
 height="185"
-src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=60A5FA&text_color=C9D1D9"/>
+src="./profile/stats.svg"
+alt="GitHub Statistics"/>
 
 </a>
 
@@ -200,23 +200,20 @@ src="https://github-readme-stats.vercel.app/api?username=AsieduDevelopmentHub&sh
 
 <img
 height="185"
-src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=8B949E"/>
+src="./profile/top-langs.svg"
+alt="Top Programming Languages"/>
 
 </a>
+
+<br/>
+<br/>
 
 <a href="https://github.com/AsieduDevelopmentHub">
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=AsieduDevelopmentHub&bg_color=transparent&color=C9D1D9&line=60A5FA&point=7DD3FC&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/AsieduDevelopmentHub">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsieduDevelopmentHub&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=C9D1D9"/>
+src="./profile/activity-graph.svg"
+alt="GitHub Activity Graph"/>
 
 </a>
 
