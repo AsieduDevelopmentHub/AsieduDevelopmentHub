@@ -36,7 +36,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: theme=react-dark&hide_border=true&custom_title=Engineering%20Activity&days=40&radius=6&height=300
+          options: theme=react-dark&hide_border=true&custom_title=Engineering%20Activity&days=365&radius=6&height=300
           output_path: profile/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
