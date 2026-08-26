@@ -188,37 +188,33 @@ into unified and reliable ecosystems.
 # Engineering Metrics
 
 <a href="https://github.com/AsieduDevelopmentHub">
+
 <img
 height="185"
 src="./profile/stats.svg"
 alt="GitHub Statistics"/>
+
 </a>
 
 <a href="https://github.com/AsieduDevelopmentHub">
+
 <img
 height="185"
-src="./profile/streak.svg"
-alt="GitHub Contribution Streak"/>
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/AsieduDevelopmentHub">
-<img
-height="180"
 src="./profile/top-langs.svg"
 alt="Top Programming Languages"/>
+
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/AsieduDevelopmentHub">
+
 <img
 width="100%"
 src="./profile/activity-graph.svg"
 alt="GitHub Activity Graph"/>
+
 </a>
 
 </div>

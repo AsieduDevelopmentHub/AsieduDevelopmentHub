@@ -2,13 +2,10 @@ name: Update GitHub Profile Statistics
 
 on:
   schedule:
-    # Run every day at 03:00 UTC
     - cron: "0 3 * * *"
 
-  # Allow manual updates from GitHub Actions
   workflow_dispatch:
 
-  # Automatically update when this workflow changes
   push:
     paths:
       - ".github/workflows/github-stats.yml"
@@ -22,17 +19,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      # --------------------------------------------------
-      # Checkout profile repository
-      # --------------------------------------------------
-
       - name: Checkout repository
-        uses: actions/checkout@v6
-
-      # --------------------------------------------------
-      # Prepare profile directory
-      # --------------------------------------------------
+        uses: actions/checkout@v4
 
       - name: Create profile directory
         run: mkdir -p profile
@@ -45,21 +33,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-
-          options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &include_all_commits=true
-            &count_private=true
-            &theme=transparent
-            &hide_border=true
-            &title_color=7DD3FC
-            &icon_color=60A5FA
-            &text_color=C9D1D9
-            &rank_icon=github
-
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github
           path: profile/stats.svg
-
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # --------------------------------------------------
@@ -70,18 +45,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-
-          options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &langs_count=8
-            &theme=transparent
-            &hide_border=true
-            &title_color=7DD3FC
-            &text_color=C9D1D9
-
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=C9D1D9
           path: profile/top-langs.svg
-
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # --------------------------------------------------
@@ -91,24 +56,20 @@ jobs:
       - name: Generate Contribution Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: >-
-            user=${{ github.repository_owner }}
-            &theme=transparent
-            &hide_border=true
-            &ring=60A5FA
-            &fire=60A5FA
-            &currStreakNum=7DD3FC
-            &sideNums=C9D1D9
-            &currStreakLabel=7DD3FC
-            &sideLabels=C9D1D9
-            &dates=8B949E
-            &disable_animations=true
-            &card_width=495
-            &card_height=195
-
-          path: profile/streak.svg
-
-          token: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          COLOR: "7DD3FC"
+          BACKGROUND: "transparent"
+          BORDER: "transparent"
+          RING: "60A5FA"
+          FIRE: "60A5FA"
+          STREAK_NUM: "7DD3FC"
+          SIDE_NUM: "C9D1D9"
+          STREAK_LABEL: "7DD3FC"
+          SIDE_LABEL: "C9D1D9"
+          DATE: "8B949E"
+          SHOW_TOTAL_CONTRIBUTIONS: "true"
+          HIDE_BORDER: "true"
+          OUTPUT_PATH: "profile/streak.svg"
 
       # --------------------------------------------------
       # Commit generated SVG files
@@ -121,8 +82,10 @@ jobs:
 
           git add profile/*.svg
 
-          git diff --cached --quiet && echo "No statistics changes." && exit 0
+          if git diff --cached --quiet; then
+            echo "No statistics changes."
+            exit 0
+          fi
 
           git commit -m "Update GitHub profile statistics"
-
           git push
