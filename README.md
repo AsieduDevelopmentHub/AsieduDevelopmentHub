@@ -1,70 +1,79 @@
 # Asiedu Minta Kwaku
 
-**Software Developer · Embedded Systems Engineer · IoT Developer**
+### Software Developer · Embedded Systems Engineer · IoT Developer
 
-I build software and connected systems that bring hardware, local applications, and cloud services together. Based in Ghana, I work across embedded devices, offline-capable business software, and web and mobile applications.
+I design software that works where it matters: at the point of sale, on connected devices, and across unreliable networks. My work spans embedded systems, offline-first applications, and the cloud services that connect them.
+
+**Based in Ghana** · [Portfolio](https://asiedudevhub.auralenx.com) · [LinkedIn](https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a) · [Email](mailto:asiedudev.hub@gmail.com)
+
+---
+
+## Selected work
+
+### [Novend POS](https://novendpos.app)
+
+An offline-first point-of-sale platform for retail and multi-branch businesses. I work on the application across web, desktop, and mobile, including local data storage, synchronization, inventory, and device integration.
+
+### Embedded systems and IoT
+
+I build connected prototypes with ESP32 and Arduino, integrate sensors, and develop monitoring interfaces that turn device data into useful information.
+
+---
+
+## Technologies
+
+<p align="center">
+  <strong>Languages</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c&amp;perline=5" alt="TypeScript, JavaScript, Python, C++, and C" height="48" />
+</p>
+
+<p align="center">
+  <strong>Applications</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,electron,html,css&amp;perline=6" alt="React, Next.js, Node.js, Electron, HTML, and CSS" height="48" />
+</p>
+
+<p align="center">
+  <strong>Data and development</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite,docker,git&amp;perline=6" alt="PostgreSQL, Supabase, Firebase, SQLite, Docker, and Git" height="48" />
+</p>
+
+<p align="center">
+  <strong>Hardware</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&amp;perline=2" alt="Arduino and Raspberry Pi" height="48" />
+</p>
+
+<p align="center"><sub>Also working with ESP32, Convex, IndexedDB, and Capacitor.</sub></p>
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/AsieduDevelopmentHub?tab=overview">
+    <img src="./profile/stats.svg" alt="GitHub repository statistics" width="467" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AsieduDevelopmentHub?tab=repositories">
+    <img src="./profile/top-langs.svg" alt="Languages in public repositories" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AsieduDevelopmentHub?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=AsieduDevelopmentHub&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=7DD3FC&amp;fire=60A5FA&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=7DD3FC&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;card_width=700" alt="GitHub contribution streak" width="700" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AsieduDevelopmentHub?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsieduDevelopmentHub&amp;theme=github_dark" alt="Recent GitHub contribution activity" width="700" />
+  </a>
+</p>
+
+<p align="center"><sub>Repository stats and language cards update weekly. The streak and activity cards update through their providers and may be cached for several hours. Contribution totals and repository stats measure different activity.</sub></p>
+
+---
+
+### Let's connect
 
 [Portfolio](https://asiedudevhub.auralenx.com) · [LinkedIn](https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a) · [Email](mailto:asiedudev.hub@gmail.com)
-
-## What I build
-
-- **Business software:** [Novend POS](https://novendpos.app), an offline-first point-of-sale platform for retail and multi-branch operations.
-- **Connected devices:** ESP32 and Arduino prototypes, sensor integration, monitoring, and automation.
-- **Full-stack applications:** responsive interfaces, APIs, authentication, data dashboards, and synchronization.
-
-## Tech stack
-
-<div align="center">
-
-**Languages**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c&amp;perline=5" alt="TypeScript, JavaScript, Python, C++, and C" height="48" />
-
-<br /><br />
-
-**Web and apps**<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,electron,html,css&amp;perline=6" alt="React, Next.js, Node.js, Electron, HTML, and CSS" height="48" />
-
-<br /><br />
-
-**Data and tools**<br />
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite,docker,git&amp;perline=6" alt="PostgreSQL, Supabase, Firebase, SQLite, Docker, and Git" height="48" />
-
-<br /><br />
-
-**Hardware**<br />
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&amp;perline=2" alt="Arduino and Raspberry Pi" height="48" />
-
-</div>
-
-I also work with ESP32, Convex, IndexedDB, and Capacitor.
-
-## GitHub analytics
-
-<div align="center">
-
-<a href="https://github.com/AsieduDevelopmentHub?tab=overview">
-  <img src="./profile/stats.svg" alt="GitHub repository statistics" width="467" />
-</a>
-<a href="https://github.com/AsieduDevelopmentHub?tab=repositories">
-  <img src="./profile/top-langs.svg" alt="Languages in public repositories" width="300" />
-</a>
-
-<br />
-
-<a href="https://github.com/AsieduDevelopmentHub?tab=overview">
-  <img src="./profile/streak.svg" alt="GitHub contribution streak" width="790" />
-</a>
-
-<br />
-
-<a href="https://github.com/AsieduDevelopmentHub?tab=overview">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsieduDevelopmentHub&amp;theme=github_dark" alt="Recent GitHub contribution activity" width="700" />
-</a>
-
-</div>
-
-<sub>The cards measure different things: repository stats and language sizes are not the same as the contribution count on GitHub's profile calendar. The repository statistics and language cards refresh weekly. The streak and activity cards are generated on request; their services and GitHub may cache images for several hours.</sub>
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a) · [Portfolio](https://asiedudevhub.auralenx.com) · [Email](mailto:asiedudev.hub@gmail.com) · [GitHub repositories](https://github.com/AsieduDevelopmentHub?tab=repositories)
