@@ -39,12 +39,12 @@ I build software and connected systems that bring hardware, local applications, 
 <br />
 
 <a href="https://github.com/AsieduDevelopmentHub?tab=overview">
-  <img src="./profile/activity-graph.svg" alt="GitHub contribution activity graph" width="790" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsieduDevelopmentHub&amp;theme=github_dark" alt="Recent GitHub contribution activity" width="790" />
 </a>
 
 </div>
 
-<sub>The cards measure different things: repository stats and language sizes are not the same as the contribution count on GitHub's profile calendar. Generated cards refresh weekly; the activity graph is a separate snapshot.</sub>
+<sub>The cards measure different things: repository stats and language sizes are not the same as the contribution count on GitHub's profile calendar. The repository statistics, language and streak cards refresh weekly. The activity card comes from a live service and can be cached for several hours.</sub>
 
 ## Connect
 
