@@ -18,7 +18,7 @@ Vital-Go is a health monitoring platform in active development. Our team is buil
 
 An offline-first point-of-sale platform for retail and multi-branch businesses. I work on the application across web, desktop, and mobile, including local data storage, synchronization, inventory, and device integration.
 
-### [IoT gateway for DSE generator controllers using Modbus RTU over RS485](https://github.com/AsieduDevelopmentHub/dse_modbus_rtu)
+### [IoT gateway for DSE generator controllers using Modbus RTU over RS485](https://github.com/AsieduDevelopmentHub/dse-modbus_gateway)
 
 An ESP32-based IoT gateway for communicating with DSE generator controllers over Modbus RTU/RS485. The project provides reliable register reading, diagnostics, CRC validation, and a foundation for remote generator monitoring and IoT/cloud integration.
 
