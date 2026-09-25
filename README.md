@@ -1,8 +1,8 @@
 # Asiedu Minta Kwaku
 
-### Software Developer · Embedded Systems Engineer · IoT Developer
+### Cofounder & COO, Vital-Go · Software & Embedded Systems Engineer
 
-I design software that works where it matters: at the point of sale, on connected devices, and across unreliable networks. My work spans embedded systems, offline-first applications, and the cloud services that connect them.
+I lead product and operations at **Vital-Go** while building software and connected systems. My engineering work spans health monitoring, embedded devices, offline-first business applications, and the services that connect them.
 
 **Based in Ghana** · [Portfolio](https://asiedudevhub.auralenx.com) · [LinkedIn](https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a) · [Email](mailto:asiedudev.hub@gmail.com)
 
@@ -10,13 +10,17 @@ I design software that works where it matters: at the point of sale, on connecte
 
 ## Selected work
 
+### Vital-Go · Cofounder & COO
+
+Vital-Go is a health monitoring platform in active development. Our team is building a system that connects wearable health data with patient and clinician dashboards, device management, and alerts. I help lead the product and operations, bringing an embedded systems and software perspective to the platform.
+
 ### [Novend POS](https://novendpos.app)
 
 An offline-first point-of-sale platform for retail and multi-branch businesses. I work on the application across web, desktop, and mobile, including local data storage, synchronization, inventory, and device integration.
 
-### Embedded systems and IoT
+### [Embedded health monitoring prototype](https://github.com/AsieduDevelopmentHub/ESP32_Health_Project)
 
-I build connected prototypes with ESP32 and Arduino, integrate sensors, and develop monitoring interfaces that turn device data into useful information.
+An ESP32-based prototype that collects readings from biomedical sensors and sends them to a web dashboard. My wider embedded work covers sensor integration, connectivity, monitoring, and automation.
 
 ---
 
