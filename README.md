@@ -187,19 +187,19 @@ into unified and reliable ecosystems.
 
 # Engineering Metrics
 
-<a href="https://github.com/AsieduDevelopmentHub">
+<a href="https://github.com/AsieduDevelopmentHub?tab=overview">
 
 <img
-height="185"
+width="49%"
 src="./profile/stats.svg"
 alt="GitHub Statistics"/>
 
 </a>
 
-<a href="https://github.com/AsieduDevelopmentHub">
+<a href="https://github.com/AsieduDevelopmentHub?tab=repositories">
 
 <img
-height="185"
+width="49%"
 src="./profile/top-langs.svg"
 alt="Top Programming Languages"/>
 
@@ -208,14 +208,16 @@ alt="Top Programming Languages"/>
 <br/>
 <br/>
 
-<a href="https://github.com/AsieduDevelopmentHub">
+<a href="https://github.com/AsieduDevelopmentHub?tab=overview">
 
 <img
-width="100%"
-src="./profile/activity-graph.svg"
-alt="GitHub Activity Graph"/>
+width="70%"
+src="./profile/streak.svg"
+alt="GitHub Contribution Streak"/>
 
 </a>
+
+<p>Automatically refreshed by the profile statistics workflow. GitHub's contribution graph on the <a href="https://github.com/AsieduDevelopmentHub?tab=overview">profile overview</a> shows the current activity.</p>
 
 </div>
 
@@ -240,33 +242,8 @@ alt="GitHub Activity Graph"/>
 
 
 <!-- ===================================================== -->
-<!-- CONTRIBUTION SNAKE • CONTACT • FOOTER -->
+<!-- CONTACT • FOOTER -->
 <!-- ===================================================== -->
-
-
-<div align="center">
-
-# Contribution Snake
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-
-<img
-alt="Contribution Snake"
-src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
----
 
 
 <div align="center">
