@@ -2,7 +2,7 @@
 
 ### Cofounder & CTO, Vital-Go · Software & Embedded Systems Engineer
 
-I lead product and operations at **Vital-Go** while building software and connected systems. My engineering work spans health monitoring, embedded devices, offline-first business applications, and the services that connect them.
+I lead the technology direction at **Vital-Go** while building software and connected systems. My engineering work spans health monitoring, embedded devices, offline-first business applications, and the services that connect them.
 
 **Based in Ghana** · [Portfolio](https://asiedudevhub.auralenx.com) · [LinkedIn](https://www.linkedin.com/in/kwaku-minta-asiedu-52597234a) · [Email](mailto:asiedudev.hub@gmail.com)
 
@@ -10,9 +10,9 @@ I lead product and operations at **Vital-Go** while building software and connec
 
 ## Selected work
 
-### Vital-Go · Cofounder & COO
+### Vital-Go · Cofounder & CTO
 
-Vital-Go is a health monitoring platform in active development. Our team is building a system that connects wearable health data with patient and clinician dashboards, device management, and alerts. I help lead the product and operations, bringing an embedded systems and software perspective to the platform.
+Vital-Go is a health monitoring platform in active development. Our team is building a system that connects wearable health data with patient and clinician dashboards, device management, and alerts. I guide the platform's technical direction across software, device integration, and connected health systems.
 
 ### [Novend POS](https://novendpos.app)
 
