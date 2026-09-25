@@ -1,6 +1,6 @@
 # Asiedu Minta Kwaku
 
-### Cofounder & COO, Vital-Go · Software & Embedded Systems Engineer
+### Cofounder & CTO, Vital-Go · Software & Embedded Systems Engineer
 
 I lead product and operations at **Vital-Go** while building software and connected systems. My engineering work spans health monitoring, embedded devices, offline-first business applications, and the services that connect them.
 
