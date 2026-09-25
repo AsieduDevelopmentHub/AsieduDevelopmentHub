@@ -1,6 +1,6 @@
 # Asiedu Minta Kwaku
 
-### Cofounder & CTO, Vital-Go · Software & Embedded Systems Engineer
+### Co-Founder & CTO, Vital-Go · Software & Embedded Systems Engineer
 
 I lead the technology direction at **Vital-Go** while building software and connected systems. My engineering work spans health monitoring, embedded devices, offline-first business applications, and the services that connect them.
 
@@ -10,7 +10,7 @@ I lead the technology direction at **Vital-Go** while building software and conn
 
 ## Selected work
 
-### Vital-Go · Cofounder & CTO
+### [Vital-Go · Co-Founder & CTO](https://vital-go.com)
 
 Vital-Go is a health monitoring platform in active development. Our team is building a system that connects wearable health data with patient and clinician dashboards, device management, and alerts. I guide the platform's technical direction across software, device integration, and connected health systems.
 
@@ -18,9 +18,9 @@ Vital-Go is a health monitoring platform in active development. Our team is buil
 
 An offline-first point-of-sale platform for retail and multi-branch businesses. I work on the application across web, desktop, and mobile, including local data storage, synchronization, inventory, and device integration.
 
-### [Embedded health monitoring prototype](https://github.com/AsieduDevelopmentHub/ESP32_Health_Project)
+### [IoT gateway for DSE generator controllers using Modbus RTU over RS485](https://github.com/AsieduDevelopmentHub/dse_modbus_rtu)
 
-An ESP32-based prototype that collects readings from biomedical sensors and sends them to a web dashboard. My wider embedded work covers sensor integration, connectivity, monitoring, and automation.
+An ESP32-based IoT gateway for communicating with DSE generator controllers over Modbus RTU/RS485. The project provides reliable register reading, diagnostics, CRC validation, and a foundation for remote generator monitoring and IoT/cloud integration.
 
 ---
 
