@@ -53,17 +53,17 @@ A cybersecurity awareness application covering topics such as phishing, password
 
 <p align="center">
   <strong>Languages</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c&amp;perline=5" alt="TypeScript, JavaScript, Python, C++, and C" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,dart,c&amp;perline=6" alt="TypeScript, JavaScript, Python, C++, Dart, and C" height="48" />
 </p>
 
 <p align="center">
   <strong>Applications</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,electron,html,css&amp;perline=6" alt="React, Next.js, Node.js, Electron, HTML, and CSS" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,electron,html,css&amp;perline=7" alt="Flutter, React, Next.js, Node.js, Electron, HTML, and CSS" height="48" />
 </p>
 
 <p align="center">
   <strong>Data and development</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite,docker,git&amp;perline=6" alt="PostgreSQL, Supabase, Firebase, SQLite, Docker, and Git" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,sqlite,docker,git&amp;perline=9" alt="PostgreSQL, Supabase, Firebase, SQLite, Docker, and Git" height="48" />
 </p>
 
 <p align="center">
