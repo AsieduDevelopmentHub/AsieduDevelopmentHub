@@ -53,7 +53,7 @@ A cybersecurity awareness application covering topics such as phishing, password
 
 <p align="center">
   <strong>Languages</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,dart,c&amp;perline=6" alt="TypeScript, JavaScript, Python, C++, Dart, and C" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,dart&amp;perline=6" alt="TypeScript, JavaScript, Python, C++, C, and Dart" height="48" />
 </p>
 
 <p align="center">
