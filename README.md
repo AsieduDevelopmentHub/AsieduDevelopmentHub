@@ -3,7 +3,7 @@
 ### Software Developer · IoT & Embedded Systems Engineer
 **Co-founder & CTO at [Vital-Go](https://vital-go.com)**
 
-I build software and connected devices that solve practical business and engineering problems—from offline-first applications to embedded firmware and hardware-to-cloud integration.
+I build software and connected devices that solve practical business and engineering problems—from offline-first applications to embedded firmware, mechatronics systems and hardware-to-cloud integration.
 
 Based in **Ghana**, open to working with clients and teams globally.
 
