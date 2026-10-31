@@ -18,7 +18,7 @@ Based in **Ghana**, open to working with clients and teams globally.
 - **IoT and embedded systems:** ESP32 firmware, sensor integration, device communication, and telemetry.
 - **Systems integration:** connecting hardware, backend services, databases, and user-facing applications.
 
-My work spans business software, connected health, and electrical and industrial monitoring. You can also find my systems-design work at [KofKaN Technologies](https://www.kofkantechnologies.com/team/asiedu-minta-kwaku).
+My work spans business software, connected health, and electrical and industrial monitoring. You can also find my systems-design work at [KofKaN Advance Technologies](https://www.kofkantechnologies.com/team/asiedu-minta-kwaku).
 
 ## Selected work
 
@@ -27,7 +27,7 @@ My work spans business software, connected health, and electrical and industrial
 
 I develop Novend POS for retail and multi-branch businesses, working across web, desktop, and mobile. My work covers local data storage, synchronization, inventory, sales workflows, and hardware integration.
 
-### [DSE Modbus Gateway](https://github.com/AsieduDevelopmentHub/dse-modbus-gateway)
+### [iCanOva Edge Gateway](https://github.com/AsieduDevelopmentHub/icanova-edge-gateway)
 **Embedded firmware · Industrial communication**
 
 An ESP32-C3 and MAX485 project for communicating with DSE generator controllers over Modbus RTU/RS485. The repository includes wiring guidance, build instructions, diagnostics documentation, and a serial CLI reference.
