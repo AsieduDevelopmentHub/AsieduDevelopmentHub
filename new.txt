@@ -21,5 +21,6 @@ Core Expertise
 - Mobile Application Development
 - Cloud Integration & Databases
 - Automation & Smart Systems
+- Mechatronics engineer
 
 "Building intelligent solutions where software, electronics, mechanical and innovation converge."
