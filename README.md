@@ -7,7 +7,7 @@ I build software and connected devices that solve practical business and enginee
 
 Based in **Ghana**, open to working with clients and teams globally.
 
-[Portfolio](https://asiedudevhub.auralenx.com/) · [LinkedIn](https://www.linkedin.com/in/asiedudevelopmenthub) · [YouTube](https://www.youtube.com/@asiedudevelopmenthub) · [Email](mailto:asiedudev.hub@gmail.com)
+[Portfolio](https://www.kofkantechnologies.com/team/asiedu-minta-kwaku) · [LinkedIn](https://www.linkedin.com/in/asiedudevelopmenthub) · [YouTube](https://www.youtube.com/@asiedudevelopmenthub) · [Email](mailto:asiedudev.hub@gmail.com)
 
 ---
 
@@ -112,4 +112,4 @@ Tell me what you are building, the problem you need to solve, and your expected 
 **Email:** [asiedudev.hub@gmail.com](mailto:asiedudev.hub@gmail.com)  
 **Phone / WhatsApp:** [+233 55 525 7482](https://wa.me/233555257482)
 
-[Portfolio](https://asiedudevhub.auralenx.com/) · [LinkedIn](https://www.linkedin.com/in/asiedudevelopmenthub) · [YouTube](https://www.youtube.com/@asiedudevelopmenthub)
+[Portfolio](https://www.kofkantechnologies.com/team/asiedu-minta-kwaku) · [LinkedIn](https://www.linkedin.com/in/asiedudevelopmenthub) · [YouTube](https://www.youtube.com/@asiedudevelopmenthub)
