@@ -22,20 +22,20 @@ My work spans business software, connected health, and electrical and industrial
 
 ## Selected work
 
+### [Vital-Go](https://vital-go.com)
+**Co-founder & CTO · Connected health**
+
+I guide the technical direction of Vital-Go, a health monitoring platform in active development. Our work connects software, wearable data, device integration, and patient and clinician experiences.
+
 ### [Novend POS](https://novendpos.app)
 **Offline-first business software**
 
 I develop Novend POS for retail and multi-branch businesses, working across web, desktop, and mobile. My work covers local data storage, synchronization, inventory, sales workflows, and hardware integration.
 
-### [iCanOva Edge Gateway](https://github.com/AsieduDevelopmentHub/icanova-edge-gateway)
+### [iCanOva Edge Gateway](https://icanova.pages.dev)
 **Embedded firmware · Industrial communication**
 
 An ESP32-C3 and MAX485 project for communicating with DSE generator controllers over Modbus RTU/RS485. The repository includes wiring guidance, build instructions, diagnostics documentation, and a serial CLI reference.
-
-### [Vital-Go](https://vital-go.com)
-**Co-founder & CTO · Connected health**
-
-I guide the technical direction of Vital-Go, a health monitoring platform in active development. Our work connects software, wearable data, device integration, and patient and clinician experiences.
 
 ### [TankGuard](https://github.com/AsieduDevelopmentHub/tankguard-esp32)
 **Embedded control · Bench prototype**
